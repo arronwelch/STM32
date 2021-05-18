@@ -1,0 +1,26 @@
+
+T21AC 030:153 SEGGER J-Link V4.80g Log File (0000ms, 0001ms total)
+T21AC 030:153 DLL Compiled: Feb 13 2014 20:50:02 (0000ms, 0001ms total)
+T21AC 030:153 Logging started @ 2021-05-18 23:25 (0000ms, 0001ms total)
+T21AC 030:153 JLINK_SetWarnOutHandler(...) (0000ms, 0001ms total)
+T21AC 030:153 JLINK_OpenEx(...)
+  ***** Error: Can not connect to J-Link via USB.  returns "Can not connect to J-Link via USB." (0001ms, 0002ms total)
+
+  ***** API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T21AC 030:154 
+  ***** Error: Can not connect to J-Link via USB.JLINK_GetDeviceFamily()  returns 0 (0000ms, 0002ms total)
+
+  ***** API Error: API JLINK_GetDebugInfo function called before JLINKARM_Open()
+T21AC 045:275 
+  ***** Error: Can not connect to J-Link via USB.
+  ***** API Error: API JLINK_ReadMem function called before JLINKARM_Open()
+T21AC 045:275 
+  ***** Error: Can not connect to J-Link via USB.
+  ***** API Error: API JLINK_ReadMem function called before JLINKARM_Open()
+T21AC 045:275 
+  ***** Error: Can not connect to J-Link via USB.
+  ***** API Error: API JLINK_SetSpeed function called before JLINKARM_Open()
+T21AC 054:985 
+  ***** Error: Can not connect to J-Link via USB.JLINK_Close() (0000ms, 0002ms total)
+T21AC 054:985  (0000ms, 0002ms total)
+T21AC 054:985 Closed (0000ms, 0002ms total)
