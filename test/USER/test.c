@@ -9,7 +9,7 @@ int main(void)
 	uart_init(72,9600);
 	while(1)
 	{
-		printf("t:%d\n",t);
+		printf("t:%d\r\n",t);
 		delay_ms(500);
 		t++;
 	}
