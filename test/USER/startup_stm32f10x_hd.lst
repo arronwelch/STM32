@@ -566,11 +566,11 @@ ARM Macro Assembler    Page 9
               00000400 
               00000200 
               00000000 
-Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=..\obj\s
-tartup_stm32f10x_hd.d -o..\obj\startup_stm32f10x_hd.o -IE:\Keil_v5\ARM\RV31\INC
- -IE:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include -IE:\Keil_v5\ARM\PACK\Kei
-l\STM32F1xx_DFP\1.0.4\Device\Include --list=..\obj\startup_stm32f10x_hd.lst sta
-rtup_stm32f10x_hd.s
+Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=.\startu
+p_stm32f10x_hd.d -o.\startup_stm32f10x_hd.o -IE:\Keil_v5\ARM\RV31\INC -IE:\Keil
+_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include -IE:\Keil_v5\ARM\PACK\Keil\STM32F1x
+x_DFP\1.0.4\Device\Include --list=.\startup_stm32f10x_hd.lst startup_stm32f10x_
+hd.s
 
 
 

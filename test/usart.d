@@ -1,0 +1,10 @@
+..\usart.o: ..\SYSTEM\usart\usart.c
+..\usart.o: ..\SYSTEM\usart\usart.h
+..\usart.o: ..\SYSTEM\sys\sys.h
+..\usart.o: ..\SYSTEM\sys\stm32f10x.h
+..\usart.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h
+..\usart.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\usart.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\usart.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\usart.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\usart.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
