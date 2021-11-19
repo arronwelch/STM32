@@ -9,7 +9,7 @@ int main(void)
 	uart_init(72,9600);//setting uart1 baud rate
 	while(1)
 	{
-		printf("t:%d\r\n",t);
+		printf("t:%d\r\n",t);//CR = Carriage Return  and LF = Line Feed (Windows)
 		delay_ms(500);
 		t++;
 	}

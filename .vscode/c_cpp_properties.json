@@ -1,9 +1,10 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "STM32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "E:\\Keil_v5\\ARM\\BIN"
             ],
             "defines": [
                 "_DEBUG",
@@ -12,8 +13,8 @@
             ],
             "windowsSdkVersion": "10.0.19041.0",
             "compilerPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++17",
+            "cStandard": "c89",
+            "cppStandard": "c++98",
             "intelliSenseMode": "windows-msvc-x64"
         }
     ],
