@@ -4,7 +4,8 @@
             "name": "STM32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "E:\\Keil_v5\\ARM\\BIN"
+                "E:\\Keil_v5\\ARM\\BIN",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arm\\Packs\\ARM\\CMSIS\\5.7.0\\CMSIS\\Include"
             ],
             "defines": [
                 "_DEBUG",
