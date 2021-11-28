@@ -1,3 +1,8 @@
 {
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stm32f10x_rcc.h": "c",
+        "stm32f10x.h": "c",
+        "delay.h": "c"
+    }
 }
