@@ -3,6 +3,8 @@
     "files.associations": {
         "stm32f10x_rcc.h": "c",
         "stm32f10x.h": "c",
-        "delay.h": "c"
+        "delay.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "led.h": "c"
     }
 }
