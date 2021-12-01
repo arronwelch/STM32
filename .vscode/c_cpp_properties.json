@@ -12,11 +12,10 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.19041.0",
-            // "compilerPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
-            "compilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
-            "cStandard": "c89",
-            "cppStandard": "c++98",
-            "intelliSenseMode": "gcc-arm"
+            "compilerPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
