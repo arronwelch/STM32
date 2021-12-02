@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
   30:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****              and HAL_UART_Receive_DMA() APIs):
   31:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****             (+++) Declare a DMA handle structure for the Tx/Rx channel.
   32:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****             (+++) Enable the DMAx interface clock.
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 2
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 2
 
 
   33:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****             (+++) Configure the declared DMA handle structure with the required
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
   87:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     This function takes as parameters the HAL peripheral handle, the Callback ID
   88:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     and a pointer to the user callback function.
   89:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 3
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 3
 
 
   90:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     [..]
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  144:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      *** Interrupt mode IO operation ***
  145:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      ===================================
  146:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      [..]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 4
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 4
 
 
  147:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****        (+) Send an amount of data in non blocking mode using HAL_UART_Transmit_IT()
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  201:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  202:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     (#) Non-Blocking mode API with Interrupt:
  203:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         (+) HAL_UARTEx_ReceiveToIdle_IT()
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 5
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 5
 
 
  204:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  258:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  259:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** /** @addtogroup STM32F1xx_HAL_Driver
  260:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @{
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 6
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 6
 
 
  261:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   */
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  315:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *  @brief    Initialization and Configuration functions
  316:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *
  317:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** @verbatim
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 7
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 7
 
 
  318:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****  ===============================================================================
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  372:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #if defined(USART_CR1_OVER8)
  373:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   assert_param(IS_UART_OVERSAMPLING(huart->Init.OverSampling));
  374:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USART_CR1_OVER8 */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 8
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 8
 
 
  375:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  429:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** HAL_StatusTypeDef HAL_HalfDuplex_Init(UART_HandleTypeDef *huart)
  430:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** {
  431:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check the UART handle allocation */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 9
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 9
 
 
  432:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   if (huart == NULL)
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  486:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->ErrorCode = HAL_UART_ERROR_NONE;
  487:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->gState = HAL_UART_STATE_READY;
  488:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->RxState = HAL_UART_STATE_READY;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 10
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 10
 
 
  489:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  543:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->gState = HAL_UART_STATE_BUSY;
  544:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  545:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Disable the peripheral */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 11
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 11
 
 
  546:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   __HAL_UART_DISABLE(huart);
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  600:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   assert_param(IS_UART_ADDRESS(Address));
  601:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   assert_param(IS_UART_WORD_LENGTH(huart->Init.WordLength));
  602:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #if defined(USART_CR1_OVER8)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 12
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 12
 
 
  603:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   assert_param(IS_UART_OVERSAMPLING(huart->Init.OverSampling));
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  657:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   return HAL_OK;
  658:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
  659:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 13
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 13
 
 
  660:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** /**
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  714:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   UNUSED(huart);
  715:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* NOTE: This function should not be modified, when the callback is needed,
  716:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****            the HAL_UART_MspInit could be implemented in the user file
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 14
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 14
 
 
  717:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****    */
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  771:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     switch (CallbackID)
  772:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
  773:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       case HAL_UART_TX_HALFCOMPLETE_CB_ID :
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 15
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 15
 
 
  774:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         huart->TxHalfCpltCallback = pCallback;
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  828:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         break;
  829:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  830:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       case HAL_UART_MSPDEINIT_CB_ID :
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 16
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 16
 
 
  831:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         huart->MspDeInitCallback = pCallback;
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  885:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     switch (CallbackID)
  886:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
  887:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       case HAL_UART_TX_HALFCOMPLETE_CB_ID :
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 17
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 17
 
 
  888:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         huart->TxHalfCpltCallback = HAL_UART_TxHalfCpltCallback;               /* Legacy weak  TxHa
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  942:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         break;
  943:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  944:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       case HAL_UART_MSPDEINIT_CB_ID :
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 18
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 18
 
 
  945:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         huart->MspDeInitCallback = HAL_UART_MspDeInit;
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  999:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     huart->ErrorCode |= HAL_UART_ERROR_INVALID_CALLBACK;
 1000:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 1001:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     status =  HAL_ERROR;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 19
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 19
 
 
 1002:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1056:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****            The HAL status of all data processing is returned by the same function
 1057:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****            after finishing transfer.
 1058:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****        (+) Non-Blocking mode: The communication is performed using Interrupts
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 20
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 20
 
 
 1059:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****            or DMA, these API's return the HAL status.
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1113:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****        (+) Error is considered as Blocking : Transfer could not be completed properly and is aborte
 1114:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****            This concerns Overrun Error In Interrupt mode reception and all errors in DMA mode.
 1115:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****            Error code is set to allow user to identify error type, and HAL_UART_ErrorCallback() use
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 21
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 21
 
 
 1116:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1170:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       pdata8bits  = pData;
 1171:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       pdata16bits = NULL;
 1172:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 22
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 22
 
 
 1173:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1227:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint16_t *pdata16bits;
 1228:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint32_t tickstart = 0U;
 1229:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 23
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 23
 
 
 1230:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check that a Rx process is not already ongoing */
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1284:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         else
 1285:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         {
 1286:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****           *pdata8bits = (uint8_t)(huart->Instance->DR & (uint8_t)0x007F);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 24
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 24
 
 
 1287:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         }
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1341:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     return HAL_OK;
 1342:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
 1343:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   else
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 25
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 25
 
 
 1344:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1398:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 1399:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check that a Tx process is not already ongoing */
 1400:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   if (huart->gState == HAL_UART_STATE_READY)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 26
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 26
 
 
 1401:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1455:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         of u16 available through pData.
 1456:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param  huart Pointer to a UART_HandleTypeDef structure that contains
 1457:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *               the configuration information for the specified UART module.
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 27
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 27
 
 
 1458:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param  pData Pointer to data buffer (u8 or u16 data elements).
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1512:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     CLEAR_BIT(huart->Instance->CR3, USART_CR3_EIE);
 1513:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 1514:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* Disable the UART DMA Rx request */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 28
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 28
 
 
 1515:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     CLEAR_BIT(huart->Instance->CR3, USART_CR3_DMAR);
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1569:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* The Lock is not implemented on this API to allow the user application
 1570:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      to call the HAL UART API under callbacks HAL_UART_TxCpltCallback() / HAL_UART_RxCpltCallback()
 1571:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      when calling HAL_DMA_Abort() API the DMA TX/RX Transfer complete interrupt is generated
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 29
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 29
 
 
 1572:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      and the correspond call back is executed HAL_UART_TxCpltCallback() / HAL_UART_RxCpltCallback()
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1626:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 1627:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check that a Rx process is not already ongoing */
 1628:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   if (huart->RxState == HAL_UART_STATE_READY)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 30
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 30
 
 
 1629:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1683:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       /* Check if RXNE flag is set */
 1684:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       if (__HAL_UART_GET_FLAG(huart, UART_FLAG_RXNE))
 1685:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 31
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 31
 
 
 1686:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         if (pdata8bits == NULL)
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1740:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         the received data is handled as a set of uint16_t. In this case, Size must indicate the
 1741:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         of uint16_t available through pData.
 1742:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param huart UART handle.
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 32
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 32
 
 
 1743:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param pData Pointer to data buffer (uint8_t or uint16_t data elements).
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1797:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         reception phase as ended. In all cases, callback execution will indicate number of rece
 1798:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @note   When the UART parity is enabled (PCE = 1), the received data contain
 1799:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         the parity bit (MSB position).
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 33
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 33
 
 
 1800:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @note   When UART parity is not enabled (PCE = 0), and Word Length is configured to 9 bits (M =
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1854:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @brief  Abort ongoing transfers (blocking mode).
 1855:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param  huart UART handle.
 1856:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @note   This procedure could be used for aborting any ongoing transfer started in Interrupt or 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 34
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 34
 
 
 1857:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         This procedure performs following operations :
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1911:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****          No call back execution at end of DMA abort procedure */
 1912:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       huart->hdmarx->XferAbortCallback = NULL;
 1913:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 35
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 35
 
 
 1914:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       if (HAL_DMA_Abort(huart->hdmarx) != HAL_OK)
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1968:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****          No call back execution at end of DMA abort procedure */
 1969:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       huart->hdmatx->XferAbortCallback = NULL;
 1970:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 36
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 36
 
 
 1971:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       if (HAL_DMA_Abort(huart->hdmatx) != HAL_OK)
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2025:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       /* Set the UART DMA Abort callback to Null.
 2026:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****          No call back execution at end of DMA abort procedure */
 2027:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       huart->hdmarx->XferAbortCallback = NULL;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 37
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 37
 
 
 2028:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2082:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* DMA Tx Handle is valid */
 2083:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   if (huart->hdmatx != NULL)
 2084:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 38
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 38
 
 
 2085:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* Set DMA Abort Complete callback if UART DMA Tx request if enabled.
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2139:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 2140:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* Abort the UART DMA Rx channel : use non blocking DMA Abort API (callback) */
 2141:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     if (huart->hdmarx != NULL)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 39
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 39
 
 
 2142:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2196:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *           - At abort completion, call user abort complete callback
 2197:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @note   This procedure is executed in Interrupt mode, meaning that abort procedure could be
 2198:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *         considered as completed only when user abort complete callback is executed (not when ex
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 40
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 40
 
 
 2199:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @retval HAL status
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2253:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* Call registered Abort Transmit Complete Callback */
 2254:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     huart->AbortTransmitCpltCallback(huart);
 2255:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #else
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 41
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 41
 
 
 2256:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* Call legacy weak Abort Transmit Complete Callback */
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2310:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
 2311:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       /* Reset Rx transfer counter */
 2312:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       huart->RxXferCount = 0x00U;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 42
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 42
 
 
 2313:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2367:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
 2368:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* UART in mode Receiver -------------------------------------------------*/
 2369:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     if (((isrflags & USART_SR_RXNE) != RESET) && ((cr1its & USART_CR1_RXNEIE) != RESET))
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 43
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 43
 
 
 2370:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2424:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         {
 2425:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****           CLEAR_BIT(huart->Instance->CR3, USART_CR3_DMAR);
 2426:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 44
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 44
 
 
 2427:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****           /* Abort the UART DMA Rx channel */
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2481:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check current reception Mode :
 2482:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****      If Reception till IDLE event has been selected : */
 2483:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   if (  (huart->ReceptionType == HAL_UART_RECEPTION_TOIDLE)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 45
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 45
 
 
 2484:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       &&((isrflags & USART_SR_IDLE) != 0U)
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2538:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       uint16_t nb_rx_data = huart->RxXferSize - huart->RxXferCount;
 2539:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       if (  (huart->RxXferCount > 0U)
 2540:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****           &&(nb_rx_data > 0U) )
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 46
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 46
 
 
 2541:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2595:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** /**
 2596:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @brief  Tx Half Transfer completed callbacks.
 2597:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param  huart  Pointer to a UART_HandleTypeDef structure that contains
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 47
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 47
 
 
 2598:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *                the configuration information for the specified UART module.
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2652:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****    */
 2653:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
 2654:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 48
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 48
 
 
 2655:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** /**
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2709:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Prevent unused argument(s) compilation warning */
 2710:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   UNUSED(huart);
 2711:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   UNUSED(Size);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 49
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 49
 
 
 2712:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2766:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
 2767:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 2768:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** /**
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 50
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 50
 
 
 2769:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @brief  Enters the UART in mute mode.
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2823:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @brief  Enables the UART transmitter and disables the UART receiver.
 2824:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @param  huart  Pointer to a UART_HandleTypeDef structure that contains
 2825:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   *                the configuration information for the specified UART module.
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 51
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 51
 
 
 2826:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @retval HAL status
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2880:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 2881:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Write to USART CR1 */
 2882:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   WRITE_REG(huart->Instance->CR1, (uint32_t)tmpreg);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 52
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 52
 
 
 2883:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2937:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   return huart->ErrorCode;
 2938:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
 2939:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 53
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 53
 
 
 2940:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** /**
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2994:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 2995:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
 2996:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* DMA Circular mode */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 54
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 54
 
 
 2997:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   else
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3051:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     huart->RxState = HAL_UART_STATE_READY;
 3052:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 3053:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* If Reception till IDLE event has been selected, Disable IDLE Interrupt */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 55
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 55
 
 
 3054:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     if (huart->ReceptionType == HAL_UART_RECEPTION_TOIDLE)
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3108:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
 3109:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /* In other cases : use Rx Half Complete callback */
 3110:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #if (USE_HAL_UART_REGISTER_CALLBACKS == 1)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 56
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 56
 
 
 3111:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     /*Call registered Rx Half complete callback*/
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3165:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   * @retval HAL status
 3166:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   */
 3167:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** static HAL_StatusTypeDef UART_WaitOnFlagUntilTimeout(UART_HandleTypeDef *huart, uint32_t Flag, Flag
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 57
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 57
 
 
 3168:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** {
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3222:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 3223:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Enable the UART Data Register not empty Interrupt */
 3224:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   __HAL_UART_ENABLE_IT(huart, UART_IT_RXNE);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 58
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 58
 
 
 3225:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3279:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   in the UART CR3 register */
 3280:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   SET_BIT(huart->Instance->CR3, USART_CR3_DMAR);
 3281:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 59
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 59
 
 
 3282:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   return HAL_OK;
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
   59              		@ link register save eliminated.
 3306:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Disable RXNE, PE and ERR (Frame error, noise error, overrun error) interrupts */
 3307:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   CLEAR_BIT(huart->Instance->CR1, (USART_CR1_RXNEIE | USART_CR1_PEIE));
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 60
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 60
 
 
   60              		.loc 1 3307 3 view .LVU6
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  103              	UART_Transmit_IT:
  104              	.LVL2:
  105              	.LFB122:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 61
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 61
 
 
 3320:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3374:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Restore huart->gState and huart->RxState to Ready */
 3375:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->gState  = HAL_UART_STATE_READY;
 3376:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->RxState = HAL_UART_STATE_READY;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 62
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 62
 
 
 3377:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   huart->ReceptionType = HAL_UART_RECEPTION_STANDARD;
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3431:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   HAL_UART_AbortCpltCallback(huart);
 3432:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USE_HAL_UART_REGISTER_CALLBACKS */
 3433:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 63
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 63
 
 
 3434:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3488:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   HAL_UART_AbortReceiveCpltCallback(huart);
 3489:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USE_HAL_UART_REGISTER_CALLBACKS */
 3490:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 64
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 64
 
 
 3491:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3529:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
 3530:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
  122              		.loc 1 3530 1 view .LVU23
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 65
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 65
 
 
  123 000c 7047     		bx	lr
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  162 0038 0268     		ldr	r2, [r0]
  163 003a D368     		ldr	r3, [r2, #12]
  164 003c 43F04003 		orr	r3, r3, #64
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 66
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 66
 
 
  165 0040 D360     		str	r3, [r2, #12]
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  206              		.syntax unified
  207              		.thumb
  208              		.thumb_func
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 67
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 67
 
 
  210              	UART_SetConfig:
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3582:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
 3583:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       if ((huart->Init.WordLength == UART_WORDLENGTH_9B) || ((huart->Init.WordLength == UART_WORDLE
 3584:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 68
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 68
 
 
 3585:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         *pdata8bits = (uint8_t)(huart->Instance->DR & (uint8_t)0x00FF);
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3639:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #else
 3640:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****        /*Call legacy weak Rx complete callback*/
 3641:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****        HAL_UART_RxCpltCallback(huart);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 69
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 69
 
 
 3642:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USE_HAL_UART_REGISTER_CALLBACKS */
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  233 0008 23F44053 		bic	r3, r3, #12288
  234 000c C168     		ldr	r1, [r0, #12]
  235 000e 0B43     		orrs	r3, r3, r1
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 70
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 70
 
 
  236 0010 1361     		str	r3, [r2, #16]
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3701:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   if(huart->Instance == USART1)
  265              		.loc 1 3701 3 is_stmt 1 view .LVU71
  266              		.loc 1 3701 11 is_stmt 0 view .LVU72
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 71
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 71
 
 
  267 003a 0268     		ldr	r2, [r0]
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  301              		.loc 1 3721 8 view .LVU80
  302 007c 2168     		ldr	r1, [r4]
  303              		.loc 1 3721 26 view .LVU81
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 72
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 72
 
 
  304 007e 1344     		add	r3, r3, r2
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  352              		.cfi_offset 14, -4
  353 0004 0546     		mov	r5, r0
  354 0006 0F46     		mov	r7, r1
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 73
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 73
 
 
  355 0008 1646     		mov	r6, r2
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  395              		.loc 1 3179 9 view .LVU103
  396 0048 2A68     		ldr	r2, [r5]
  397 004a 5369     		ldr	r3, [r2, #20]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 74
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 74
 
 
  398 004c 23F00103 		bic	r3, r3, #1
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  714:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* NOTE: This function should not be modified, when the callback is needed,
  441              		.loc 1 714 3 view .LVU117
  718:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 75
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 75
 
 
  442              		.loc 1 718 1 is_stmt 0 view .LVU118
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  485              		.loc 1 400 3 is_stmt 1 view .LVU131
  486 0012 2268     		ldr	r2, [r4]
  487 0014 D368     		ldr	r3, [r2, #12]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 76
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 76
 
 
  488 0016 23F40053 		bic	r3, r3, #8192
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  393:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* (USE_HAL_UART_REGISTER_CALLBACKS) */
  528              		.loc 1 393 5 is_stmt 1 view .LVU146
  529 0054 FFF7FEFF 		bl	HAL_UART_MspInit
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 77
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 77
 
 
  530              	.LVL27:
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  575              		.loc 1 444 12 is_stmt 0 view .LVU157
  576 0008 90F83D30 		ldrb	r3, [r0, #61]	@ zero_extendqisi2
  444:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 78
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 78
 
 
  577              		.loc 1 444 6 view .LVU158
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  619              		.loc 1 487 17 is_stmt 0 view .LVU170
  620 0050 2023     		movs	r3, #32
  621 0052 84F83D30 		strb	r3, [r4, #61]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 79
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 79
 
 
  488:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  666              		.loc 1 507 3 view .LVU182
  507:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
  667              		.loc 1 507 6 is_stmt 0 view .LVU183
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 80
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 80
 
 
  668 0000 0028     		cmp	r0, #0
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  709              		.loc 1 555 3 view .LVU196
  710 0032 2268     		ldr	r2, [r4]
  711 0034 5369     		ldr	r3, [r2, #20]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 81
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 81
 
 
  712 0036 23F02A03 		bic	r3, r3, #42
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  752              		.loc 1 525 5 is_stmt 1 view .LVU210
  525:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  753              		.loc 1 525 17 is_stmt 0 view .LVU211
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 82
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 82
 
 
  754 0072 80F83C30 		strb	r3, [r0, #60]
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  802 0006 0D46     		mov	r5, r1
  803 0008 1646     		mov	r6, r2
  804 000a 0446     		mov	r4, r0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 83
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 83
 
 
  596:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  643:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  845              		.loc 1 643 3 view .LVU234
  846 0048 2368     		ldr	r3, [r4]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 84
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 84
 
 
  847 004a 1969     		ldr	r1, [r3, #16]
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  886              		.loc 1 623 5 is_stmt 1 view .LVU249
  887 0080 FFF7FEFF 		bl	HAL_UART_MspInit
  888              	.LVL50:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 85
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 85
 
 
  623:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* (USE_HAL_UART_REGISTER_CALLBACKS) */
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  940              		@ args = 0, pretend = 0, frame = 0
  941              		@ frame_needed = 0, uses_anonymous_args = 0
  669:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 86
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 86
 
 
  942              		.loc 1 669 3 view .LVU257
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  979              		.loc 1 700 3 view .LVU274
  980 0028 84F83C00 		strb	r0, [r4, #60]
  700:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 87
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 87
 
 
  981              		.loc 1 700 3 view .LVU275
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1140:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1029              		.loc 1 1140 3 view .LVU284
  1030              	.LVL59:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 88
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 88
 
 
 1143:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1068              		.loc 1 1157 17 is_stmt 0 discriminator 2 view .LVU301
  1069 0038 FFF7FEFF 		bl	HAL_GetTick
  1070              	.LVL61:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 89
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 89
 
 
 1157:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1166:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     }
  1108              		.loc 1 1166 19 view .LVU319
  1109 0064 A846     		mov	r8, r5
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 90
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 90
 
 
 1165:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       pdata16bits = (uint16_t *) pData;
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1148 0088 3B46     		mov	r3, r7
  1149 008a 0022     		movs	r2, #0
  1150 008c 8021     		movs	r1, #128
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 91
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 91
 
 
  1151 008e 2046     		mov	r0, r4
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1189              		.loc 1 1204 12 is_stmt 0 view .LVU351
  1190 00ba 00E0     		b	.L74
  1191              	.LVL73:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 92
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 92
 
 
  1192              	.L80:
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1236              		.cfi_endproc
  1237              	.LFE72:
  1239              		.section	.text.HAL_UART_Receive,"ax",%progbits
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 93
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 93
 
 
  1240              		.align	1
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1284              		.loc 1 1233 8 is_stmt 0 view .LVU372
  1285 0018 0029     		cmp	r1, #0
  1286 001a 5BD0     		beq	.L103
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 94
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 94
 
 
 1233:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1249:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1323              		.loc 1 1249 24 is_stmt 0 discriminator 2 view .LVU391
  1324 0044 A4F82E80 		strh	r8, [r4, #46]	@ movhi
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 95
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 95
 
 
 1252:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1275:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         pdata16bits++;
  1363              		.loc 1 1275 40 is_stmt 0 view .LVU408
  1364 006c 2368     		ldr	r3, [r4]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 96
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 96
 
 
 1275:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         pdata16bits++;
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1402              		.loc 1 1267 11 view .LVU425
  1403 0090 BBB1     		cbz	r3, .L111
 1269:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 97
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 97
 
 
  1404              		.loc 1 1269 7 is_stmt 1 view .LVU426
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1443              	.L111:
 1294:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1444              		.loc 1 1294 5 is_stmt 1 view .LVU442
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 98
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 98
 
 
 1294:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1488              	.LVL103:
  1489              	.L108:
 1271:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 99
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 99
 
 
  1490              		.loc 1 1271 16 view .LVU454
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1533              		.loc 1 1328 23 is_stmt 0 discriminator 2 view .LVU467
  1534 001c 0162     		str	r1, [r0, #32]
 1329:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     huart->TxXferCount = Size;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 100
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 100
 
 
  1535              		.loc 1 1329 5 is_stmt 1 discriminator 2 view .LVU468
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1572 003e 0220     		movs	r0, #2
  1573              	.LVL110:
 1345:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 101
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 101
 
 
  1574              		.loc 1 1345 12 view .LVU486
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1397:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1622              		.loc 1 1397 3 is_stmt 1 view .LVU495
 1400:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 102
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 102
 
 
  1623              		.loc 1 1400 3 view .LVU496
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1415:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1660              		.loc 1 1415 5 is_stmt 1 discriminator 2 view .LVU514
 1415:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 103
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 103
 
 
  1661              		.loc 1 1415 19 is_stmt 0 discriminator 2 view .LVU515
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1431:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1698              		.loc 1 1431 5 discriminator 2 view .LVU533
  1699 0050 606B     		ldr	r0, [r4, #52]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 104
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 104
 
 
  1700 0052 FFF7FEFF 		bl	HAL_DMA_Start_IT
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1741              	.LVL128:
  1742              	.L124:
 1408:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 105
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 105
 
 
  1743              		.loc 1 1408 5 view .LVU547
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1501:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
  1789              		.loc 1 1501 13 is_stmt 0 discriminator 2 view .LVU558
  1790 0016 90F83D30 		ldrb	r3, [r0, #61]	@ zero_extendqisi2
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 106
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 106
 
 
  1791 001a DBB2     		uxtb	r3, r3
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1830 0040 4B69     		ldr	r3, [r1, #20]
  1831 0042 23F08003 		bic	r3, r3, #128
  1832 0046 4B61     		str	r3, [r1, #20]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 107
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 107
 
 
  1833 0048 EAE7     		b	.L130
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1880              		.loc 1 1533 3 view .LVU582
 1533:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  1881              		.loc 1 1533 3 view .LVU583
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 108
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 108
 
 
  1882 0000 90F83C30 		ldrb	r3, [r0, #60]	@ zero_extendqisi2
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  1921 0034 5361     		str	r3, [r2, #20]
  1922 0036 EFE7     		b	.L137
  1923              	.L146:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 109
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 109
 
 
 1531:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Process Locked */
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1557:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
  1964              		.loc 1 1557 10 is_stmt 0 view .LVU613
  1965 006c 1846     		mov	r0, r3
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 110
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 110
 
 
  1966              	.LVL143:
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2012              		.loc 1 1577 13 is_stmt 0 view .LVU623
  2013 0008 90F83D30 		ldrb	r3, [r0, #61]	@ zero_extendqisi2
  2014 000c DBB2     		uxtb	r3, r3
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 111
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 111
 
 
 1577:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2055              		.loc 1 1582 8 view .LVU637
  2056 003a 08B1     		cbz	r0, .L149
 1584:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 112
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 112
 
 
  2057              		.loc 1 1584 7 is_stmt 1 view .LVU638
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2104              		@ args = 4, pretend = 0, frame = 8
  2105              		@ frame_needed = 0, uses_anonymous_args = 0
 1622:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint8_t  *pdata8bits;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 113
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 113
 
 
  2106              		.loc 1 1622 1 is_stmt 0 view .LVU648
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2148 002e 00F08180 		beq	.L172
 1635:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  2149              		.loc 1 1635 5 discriminator 2 view .LVU661
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 114
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 114
 
 
  2150 0032 0123     		movs	r3, #1
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2185              		.loc 1 1656 19 view .LVU680
  2186 005a 4FF00009 		mov	r9, #0
  2187              	.LVL165:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 115
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 115
 
 
  2188              	.L157:
@@ -6898,7 +6898,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2225 007e 0020     		movs	r0, #0
  2226 0080 51E0     		b	.L156
  2227              	.L180:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 116
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 116
 
 
 1688:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****           pdata16bits++;
@@ -6958,7 +6958,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2265              		.loc 1 1710 7 is_stmt 1 view .LVU714
 1710:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
  2266              		.loc 1 1710 10 is_stmt 0 view .LVU715
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 117
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 117
 
 
  2267 00a4 B7F1FF3F 		cmp	r7, #-1
@@ -7018,7 +7018,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1684:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
  2306              		.loc 1 1684 7 is_stmt 1 view .LVU731
 1684:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 118
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 118
 
 
  2307              		.loc 1 1684 11 is_stmt 0 view .LVU732
@@ -7078,7 +7078,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1712:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         {
  2345              		.loc 1 1712 12 view .LVU749
  2346 00fe B842     		cmp	r0, r7
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 119
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 119
 
 
  2347 0100 01D8     		bhi	.L167
@@ -7138,7 +7138,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2385              		.loc 1 1732 1 view .LVU765
  2386 0126 03B0     		add	sp, sp, #12
  2387              	.LCFI26:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 120
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 120
 
 
  2388              		.cfi_remember_state
@@ -7198,7 +7198,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2436              		.cfi_offset 4, -8
  2437              		.cfi_offset 14, -4
  2438 0002 0446     		mov	r4, r0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 121
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 121
 
 
 1868:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   CLEAR_BIT(huart->Instance->CR3, USART_CR3_EIE);
@@ -7258,7 +7258,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2477              		.loc 1 1889 11 is_stmt 0 view .LVU789
  2478 0038 606B     		ldr	r0, [r4, #52]
  2479              	.LVL181:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 122
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 122
 
 
 1889:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
@@ -7318,7 +7318,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1929:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  2518              		.loc 1 1929 3 is_stmt 1 view .LVU806
 1929:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 123
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 123
 
 
  2519              		.loc 1 1929 22 is_stmt 0 view .LVU807
@@ -7378,7 +7378,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2557              		.loc 1 1894 28 is_stmt 0 view .LVU823
  2558 008e 1023     		movs	r3, #16
  2559 0090 2364     		str	r3, [r4, #64]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 124
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 124
 
 
 1896:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         }
@@ -7438,7 +7438,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1957:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  2605              		.loc 1 1957 3 is_stmt 1 view .LVU835
  2606 0004 0268     		ldr	r2, [r0]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 125
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 125
 
 
  2607 0006 D368     		ldr	r3, [r2, #12]
@@ -7498,7 +7498,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1988:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  2645              		.loc 1 1988 17 is_stmt 0 view .LVU852
  2646 0034 2023     		movs	r3, #32
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 126
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 126
 
 
  2647 0036 84F83D30 		strb	r3, [r4, #61]
@@ -7558,7 +7558,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2692              		.cfi_offset 14, -4
  2693 0002 0446     		mov	r4, r0
 2008:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   CLEAR_BIT(huart->Instance->CR3, USART_CR3_EIE);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 127
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 127
 
 
  2694              		.loc 1 2008 3 is_stmt 1 view .LVU864
@@ -7618,7 +7618,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2733 0038 A06B     		ldr	r0, [r4, #56]
  2734              	.LVL194:
 2029:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 128
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 128
 
 
  2735              		.loc 1 2029 11 view .LVU880
@@ -7678,7 +7678,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2034:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  2775              		.loc 1 2034 28 is_stmt 0 view .LVU895
  2776 0064 1023     		movs	r3, #16
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 129
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 129
 
 
  2777 0066 2364     		str	r3, [r4, #64]
@@ -7738,7 +7738,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2982:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* DMA Normal mode*/
  2827              		.loc 1 2982 23 is_stmt 0 view .LVU904
  2828 0004 406A     		ldr	r0, [r0, #36]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 130
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 130
 
 
  2829              	.LVL201:
@@ -7798,7 +7798,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2874              	.LVL206:
  2875              	.LFB123:
 3539:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Disable the UART Transmit Complete Interrupt */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 131
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 131
 
 
  2876              		.loc 1 3539 1 is_stmt 1 view -0
@@ -7858,7 +7858,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2922 0000 7047     		bx	lr
  2923              		.cfi_endproc
  2924              	.LFE92:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 132
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 132
 
 
  2926              		.section	.text.UART_DMATxHalfCplt,"ax",%progbits
@@ -7918,7 +7918,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  2974              		.loc 1 2623 1 is_stmt 0 view .LVU935
  2975 0000 7047     		bx	lr
  2976              		.cfi_endproc
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 133
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 133
 
 
  2977              	.LFE93:
@@ -7978,7 +7978,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3030              		.loc 1 3127 1 is_stmt 1 view -0
  3031              		.cfi_startproc
  3032              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 134
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 134
 
 
  3033              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -8038,7 +8038,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3073              	.LVL222:
  3074              	.L217:
 3147:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #if (USE_HAL_UART_REGISTER_CALLBACKS == 1)
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 135
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 135
 
 
  3075              		.loc 1 3147 3 is_stmt 1 view .LVU957
@@ -8098,7 +8098,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3116 0052 FFF7FEFF 		bl	UART_EndRxTransfer
  3117              	.LVL229:
 3144:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 136
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 136
 
 
  3118              		.loc 1 3144 5 is_stmt 0 view .LVU971
@@ -8158,7 +8158,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3165              		.thumb
  3166              		.thumb_func
  3168              	HAL_UART_AbortCpltCallback:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 137
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 137
 
 
  3169              	.LVL233:
@@ -8218,7 +8218,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2075:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
  3216              		.loc 1 2075 12 is_stmt 0 view .LVU991
  3217 0018 036B     		ldr	r3, [r0, #48]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 138
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 138
 
 
 2075:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -8278,7 +8278,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3255              	.L228:
 2112:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
  3256              		.loc 1 2112 3 is_stmt 1 view .LVU1009
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 139
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 139
 
 
 2112:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -8338,7 +8338,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3297 0076 D2E7     		b	.L225
  3298              	.L227:
 2093:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 140
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 140
 
 
  3299              		.loc 1 2093 7 view .LVU1024
@@ -8398,7 +8398,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2149:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         AbortCplt = 0x01U;
  3338              		.loc 1 2149 14 is_stmt 0 view .LVU1040
  3339 00a2 A36B     		ldr	r3, [r4, #56]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 141
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 141
 
 
 2149:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         AbortCplt = 0x01U;
@@ -8458,7 +8458,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3377              	.L236:
 2130:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       }
  3378              		.loc 1 2130 19 view .LVU1058
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 142
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 142
 
 
  3379 00c8 0021     		movs	r1, #0
@@ -8518,7 +8518,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3402:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  3426              		.loc 1 3402 3 is_stmt 1 view .LVU1068
 3402:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 143
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 143
 
 
  3427              		.loc 1 3402 8 is_stmt 0 view .LVU1069
@@ -8578,7 +8578,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3462 0024 0363     		str	r3, [r0, #48]
 3431:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USE_HAL_UART_REGISTER_CALLBACKS */
  3463              		.loc 1 3431 3 is_stmt 1 view .LVU1089
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 144
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 144
 
 
  3464 0026 FFF7FEFF 		bl	HAL_UART_AbortCpltCallback
@@ -8638,7 +8638,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3507              		.loc 1 3361 22 is_stmt 0 view .LVU1102
  3508 000e 5B6B     		ldr	r3, [r3, #52]
 3361:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 145
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 145
 
 
  3509              		.loc 1 3361 8 view .LVU1103
@@ -8698,7 +8698,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2676:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Prevent unused argument(s) compilation warning */
  3551              		.loc 1 2676 1 is_stmt 1 view -0
  3552              		.cfi_startproc
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 146
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 146
 
 
  3553              		@ args = 0, pretend = 0, frame = 0
@@ -8758,7 +8758,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3599              		.loc 1 2212 5 view .LVU1128
 2212:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
  3600              		.loc 1 2212 14 is_stmt 0 view .LVU1129
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 147
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 147
 
 
  3601 0020 436B     		ldr	r3, [r0, #52]
@@ -8818,7 +8818,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2239:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USE_HAL_UART_REGISTER_CALLBACKS */
  3639              		.loc 1 2239 7 is_stmt 0 view .LVU1146
  3640 0046 06E0     		b	.L253
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 148
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 148
 
 
  3641              	.LVL260:
@@ -8878,7 +8878,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3446:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  3687              		.loc 1 3446 3 is_stmt 1 view .LVU1157
 3446:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 149
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 149
 
 
  3688              		.loc 1 3446 23 is_stmt 0 view .LVU1158
@@ -8938,7 +8938,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3737              	.LFB89:
 2279:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Disable RXNE, PE and ERR (Frame error, noise error, overrun error) interrupts */
  3738              		.loc 1 2279 1 is_stmt 1 view -0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 150
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 150
 
 
  3739              		.cfi_startproc
@@ -8998,7 +8998,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3780              		.loc 1 2296 8 view .LVU1181
  3781 0032 7BB1     		cbz	r3, .L263
 2300:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 151
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 151
 
 
  3782              		.loc 1 2300 7 is_stmt 1 view .LVU1182
@@ -9058,7 +9058,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3821              		.loc 1 2316 7 is_stmt 1 view .LVU1197
 2316:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  3822              		.loc 1 2316 28 is_stmt 0 view .LVU1198
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 152
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 152
 
 
  3823 005e 2363     		str	r3, [r4, #48]
@@ -9118,7 +9118,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3865              		.align	1
  3866              		.syntax unified
  3867              		.thumb
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 153
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 153
 
 
  3868              		.thumb_func
@@ -9178,7 +9178,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3913              	HAL_UARTEx_RxEventCallback:
  3914              	.LVL281:
  3915              	.LFB99:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 154
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 154
 
 
 2708:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Prevent unused argument(s) compilation warning */
@@ -9238,7 +9238,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3580:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       pdata16bits  = NULL;
  3958              		.loc 1 3580 18 is_stmt 0 view .LVU1238
  3959 0012 826A     		ldr	r2, [r0, #40]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 155
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 155
 
 
  3960              	.LVL283:
@@ -9298,7 +9298,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  3998 0038 C385     		strh	r3, [r0, #46]	@ movhi
  3999 003a 002B     		cmp	r3, #0
  4000 003c 48D1     		bne	.L283
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 156
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 156
 
 
 3564:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint8_t  *pdata8bits;
@@ -9358,7 +9358,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3619:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         {
  4043              		.loc 1 3619 9 view .LVU1267
 3619:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****         {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 157
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 157
 
 
  4044              		.loc 1 3619 13 is_stmt 0 view .LVU1268
@@ -9418,7 +9418,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4086 00a0 0269     		ldr	r2, [r0, #16]
 3571:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
  4087              		.loc 1 3571 56 discriminator 1 view .LVU1281
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 158
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 158
 
 
  4088 00a2 002A     		cmp	r2, #0
@@ -9478,7 +9478,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4127              		.cfi_offset 14, -4
 3641:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** #endif /* USE_HAL_UART_REGISTER_CALLBACKS */
  4128              		.loc 1 3641 8 is_stmt 1 view .LVU1297
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 159
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 159
 
 
  4129 00c6 FFF7FEFF 		bl	HAL_UART_RxCpltCallback
@@ -9538,7 +9538,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2358:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint32_t cr1its     = READ_REG(huart->Instance->CR1);
  4178              		.loc 1 2358 3 is_stmt 1 view .LVU1305
 2358:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint32_t cr1its     = READ_REG(huart->Instance->CR1);
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 160
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 160
 
 
  4179              		.loc 1 2358 25 is_stmt 0 view .LVU1306
@@ -9598,7 +9598,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4215              		.loc 1 2377 29 discriminator 1 view .LVU1324
  4216 0026 19D1     		bne	.L293
 2377:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 161
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 161
 
 
  4217              		.loc 1 2377 69 discriminator 2 view .LVU1325
@@ -9658,7 +9658,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4259              		.loc 1 2371 7 is_stmt 0 view .LVU1337
  4260 0056 FFF7FEFF 		bl	UART_Receive_IT
  4261              	.LVL305:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 162
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 162
 
 
 2372:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     }
@@ -9718,7 +9718,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4300 008a 42F00402 		orr	r2, r2, #4
  4301 008e 2264     		str	r2, [r4, #64]
  4302              	.L296:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 163
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 163
 
 
 2398:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     {
@@ -9778,7 +9778,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4341              		.loc 1 2415 18 is_stmt 0 view .LVU1369
  4342 00c0 226C     		ldr	r2, [r4, #64]
 2415:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 164
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 164
 
 
  4343              		.loc 1 2415 10 view .LVU1370
@@ -9838,7 +9838,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2436:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****             }
  4382              		.loc 1 2436 20 is_stmt 0 view .LVU1386
  4383 00f4 A06B     		ldr	r0, [r4, #56]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 165
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 165
 
 
 2436:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****             }
@@ -9898,7 +9898,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2484:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       &&((cr1its & USART_SR_IDLE) != 0U))
  4427              		.loc 1 2484 7 is_stmt 0 view .LVU1398
  4428 0120 13F0100F 		tst	r3, #16
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 166
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 166
 
 
  4429 0124 86D0     		beq	.L305
@@ -9958,7 +9958,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4467 014a 002B     		cmp	r3, #0
  4468 014c 80D0     		beq	.L289
 2498:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 167
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 167
 
 
  4469              		.loc 1 2498 42 view .LVU1415
@@ -10018,7 +10018,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4510 017a 5369     		ldr	r3, [r2, #20]
  4511 017c 23F00103 		bic	r3, r3, #1
  4512 0180 5361     		str	r3, [r2, #20]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 168
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 168
 
 
 2512:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -10078,7 +10078,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2539:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****           &&(nb_rx_data > 0U) )
  4553              		.loc 1 2539 19 is_stmt 0 view .LVU1443
  4554 01b2 E38D     		ldrh	r3, [r4, #46]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 169
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 169
 
 
  4555 01b4 9BB2     		uxth	r3, r3
@@ -10138,7 +10138,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2568:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****     return;
  4596              		.loc 1 2568 5 is_stmt 1 view .LVU1457
  4597 01f0 2046     		mov	r0, r4
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 170
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 170
 
 
  4598              	.LVL335:
@@ -10198,7 +10198,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4644              		.loc 1 3097 3 is_stmt 1 view .LVU1467
 3097:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
  4645              		.loc 1 3097 12 is_stmt 0 view .LVU1468
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 171
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 171
 
 
  4646 0004 036B     		ldr	r3, [r0, #48]
@@ -10258,7 +10258,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4691              		.loc 1 3036 23 is_stmt 0 view .LVU1479
  4692 0004 406A     		ldr	r0, [r0, #36]
  4693              	.LVL346:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 172
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 172
 
 
 3038:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -10318,7 +10318,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4733              		.loc 1 3062 3 is_stmt 1 view .LVU1494
 3062:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {  
  4734              		.loc 1 3062 12 is_stmt 0 view .LVU1495
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 173
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 173
 
 
  4735 003e 036B     		ldr	r3, [r0, #48]
@@ -10378,7 +10378,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4781 0000 90F83C30 		ldrb	r3, [r0, #60]	@ zero_extendqisi2
  4782 0004 012B     		cmp	r3, #1
  4783 0006 12D0     		beq	.L334
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 174
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 174
 
 
 2753:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -10438,7 +10438,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4824              		.global	HAL_MultiProcessor_EnterMuteMode
  4825              		.syntax unified
  4826              		.thumb
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 175
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 175
 
 
  4827              		.thumb_func
@@ -10498,7 +10498,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4866              		.loc 1 2792 10 is_stmt 0 discriminator 2 view .LVU1536
  4867 002a 1846     		mov	r0, r3
  4868              	.LVL356:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 176
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 176
 
 
 2792:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
@@ -10558,7 +10558,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4913 0018 23F00203 		bic	r3, r3, #2
  4914 001c D360     		str	r3, [r2, #12]
 2814:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 177
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 177
 
 
  4915              		.loc 1 2814 3 discriminator 2 view .LVU1549
@@ -10618,7 +10618,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  4958 0000 90F83C30 		ldrb	r3, [r0, #60]	@ zero_extendqisi2
  4959 0004 012B     		cmp	r3, #1
  4960 0006 14D0     		beq	.L343
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 178
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 178
 
 
 2833:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
@@ -10678,7 +10678,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 2854:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
  4997              		.loc 1 2854 3 discriminator 2 view .LVU1581
 2854:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 179
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 179
 
 
  4998              		.loc 1 2854 10 is_stmt 0 discriminator 2 view .LVU1582
@@ -10738,7 +10738,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5042              		.loc 1 2873 3 is_stmt 1 discriminator 2 view .LVU1594
 2873:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  5043              		.loc 1 2873 17 is_stmt 0 discriminator 2 view .LVU1595
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 180
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 180
 
 
  5044 0014 0268     		ldr	r2, [r0]
@@ -10798,7 +10798,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5081              		.loc 1 2890 1 view .LVU1612
  5082 0034 7047     		bx	lr
  5083              		.cfi_endproc
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 181
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 181
 
 
  5084              	.LFE104:
@@ -10858,7 +10858,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5132              		@ frame_needed = 0, uses_anonymous_args = 0
  5133              		@ link register save eliminated.
 2937:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** }
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 182
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 182
 
 
  5134              		.loc 1 2937 3 view .LVU1623
@@ -10918,7 +10918,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3212:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  5176              		.loc 1 3212 18 is_stmt 0 view .LVU1638
  5177 000c 2222     		movs	r2, #34
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 183
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 183
 
 
  5178              	.LVL389:
@@ -10978,7 +10978,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5222              		.cfi_startproc
  5223              		@ args = 0, pretend = 0, frame = 0
  5224              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 184
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 184
 
 
 1361:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check that a Rx process is not already ongoing */
@@ -11038,7 +11038,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5263              	.L352:
 1380:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   }
  5264              		.loc 1 1380 12 view .LVU1667
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 185
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 185
 
 
  5265 0028 0220     		movs	r0, #2
@@ -11098,7 +11098,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5310              		.loc 1 1752 12 is_stmt 0 view .LVU1678
  5311 0000 90F83E30 		ldrb	r3, [r0, #62]	@ zero_extendqisi2
  5312 0004 DBB2     		uxtb	r3, r3
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 186
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 186
 
 
 1752:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
@@ -11158,7 +11158,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1769:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
  5351              		.loc 1 1769 16 is_stmt 0 view .LVU1695
  5352 002a 236B     		ldr	r3, [r4, #48]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 187
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 187
 
 
 1769:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
@@ -11218,7 +11218,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5394              		.loc 1 1790 1 view .LVU1708
  5395 0050 7047     		bx	lr
  5396              	.LVL409:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 188
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 188
 
 
  5397              	.L361:
@@ -11278,7 +11278,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 3241:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   uint32_t *tmp;
  5446              		.loc 1 3241 1 is_stmt 0 view .LVU1716
  5447 0000 30B5     		push	{r4, r5, lr}
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 189
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 189
 
 
  5448              	.LCFI62:
@@ -11338,7 +11338,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5486 001c A26B     		ldr	r2, [r4, #56]
 3254:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
  5487              		.loc 1 3254 39 view .LVU1733
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 190
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 190
 
 
  5488 001e 1448     		ldr	r0, .L372+4
@@ -11398,7 +11398,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5526 0044 019A     		ldr	r2, [sp, #4]
  5527              	.LBE9:
 3267:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 191
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 191
 
 
  5528              		.loc 1 3267 3 view .LVU1750
@@ -11458,7 +11458,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5575              	.LFB77:
 1464:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   /* Check that a Rx process is not already ongoing */
  5576              		.loc 1 1464 1 is_stmt 1 view -0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 192
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 192
 
 
  5577              		.cfi_startproc
@@ -11518,7 +11518,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5615              		.loc 1 1479 12 discriminator 2 view .LVU1776
  5616 0026 00E0     		b	.L375
  5617              	.LVL425:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 193
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 193
 
 
  5618              	.L376:
@@ -11578,7 +11578,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
 1813:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
  5664              		.loc 1 1813 3 view .LVU1787
 1813:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****   {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 194
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 194
 
 
  5665              		.loc 1 1813 12 is_stmt 0 view .LVU1788
@@ -11638,7 +11638,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5704 0028 B0B9     		cbnz	r0, .L382
 1830:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
  5705              		.loc 1 1830 7 is_stmt 1 view .LVU1804
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 195
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 195
 
 
 1830:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c ****       {
@@ -11698,7 +11698,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5747 004e 0220     		movs	r0, #2
  5748              	.LVL438:
 1851:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c **** 
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 196
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 196
 
 
  5749              		.loc 1 1851 1 view .LVU1818
@@ -11755,146 +11755,146 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 1
  5795              		.file 8 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h"
  5796              		.file 9 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h"
  5797              		.file 10 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h"
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 197
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 197
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f1xx_hal_uart.c
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:18     .text.UART_EndTxTransfer:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:23     .text.UART_EndTxTransfer:00000000 UART_EndTxTransfer
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:47     .text.UART_EndRxTransfer:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:52     .text.UART_EndRxTransfer:00000000 UART_EndRxTransfer
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:98     .text.UART_Transmit_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:103    .text.UART_Transmit_IT:00000000 UART_Transmit_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:205    .text.UART_SetConfig:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:210    .text.UART_SetConfig:00000000 UART_SetConfig
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:323    .text.UART_SetConfig:0000008c $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:329    .text.UART_WaitOnFlagUntilTimeout:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:334    .text.UART_WaitOnFlagUntilTimeout:00000000 UART_WaitOnFlagUntilTimeout
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:427    .text.HAL_UART_MspInit:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:433    .text.HAL_UART_MspInit:00000000 HAL_UART_MspInit
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:448    .text.HAL_UART_Init:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:454    .text.HAL_UART_Init:00000000 HAL_UART_Init
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:548    .text.HAL_HalfDuplex_Init:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:554    .text.HAL_HalfDuplex_Init:00000000 HAL_HalfDuplex_Init
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:653    .text.HAL_LIN_Init:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:659    .text.HAL_LIN_Init:00000000 HAL_LIN_Init
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:777    .text.HAL_MultiProcessor_Init:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:783    .text.HAL_MultiProcessor_Init:00000000 HAL_MultiProcessor_Init
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:908    .text.HAL_UART_MspDeInit:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:914    .text.HAL_UART_MspDeInit:00000000 HAL_UART_MspDeInit
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:929    .text.HAL_UART_DeInit:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:935    .text.HAL_UART_DeInit:00000000 HAL_UART_DeInit
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1000   .text.HAL_UART_Transmit:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1006   .text.HAL_UART_Transmit:00000000 HAL_UART_Transmit
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1240   .text.HAL_UART_Receive:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1246   .text.HAL_UART_Receive:00000000 HAL_UART_Receive
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1497   .text.HAL_UART_Transmit_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1503   .text.HAL_UART_Transmit_IT:00000000 HAL_UART_Transmit_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1601   .text.HAL_UART_Transmit_DMA:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1607   .text.HAL_UART_Transmit_DMA:00000000 HAL_UART_Transmit_DMA
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1751   .text.HAL_UART_Transmit_DMA:00000080 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2812   .text.UART_DMATransmitCplt:00000000 UART_DMATransmitCplt
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2932   .text.UART_DMATxHalfCplt:00000000 UART_DMATxHalfCplt
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3027   .text.UART_DMAError:00000000 UART_DMAError
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1758   .text.HAL_UART_DMAPause:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1764   .text.HAL_UART_DMAPause:00000000 HAL_UART_DMAPause
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1866   .text.HAL_UART_DMAResume:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1872   .text.HAL_UART_DMAResume:00000000 HAL_UART_DMAResume
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1984   .text.HAL_UART_DMAStop:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:1990   .text.HAL_UART_DMAStop:00000000 HAL_UART_DMAStop
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2093   .text.HAL_UARTEx_ReceiveToIdle:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2099   .text.HAL_UARTEx_ReceiveToIdle:00000000 HAL_UARTEx_ReceiveToIdle
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2419   .text.HAL_UART_Abort:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2425   .text.HAL_UART_Abort:00000000 HAL_UART_Abort
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2585   .text.HAL_UART_AbortTransmit:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2591   .text.HAL_UART_AbortTransmit:00000000 HAL_UART_AbortTransmit
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2674   .text.HAL_UART_AbortReceive:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2680   .text.HAL_UART_AbortReceive:00000000 HAL_UART_AbortReceive
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2786   .text.HAL_UART_TxCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2792   .text.HAL_UART_TxCpltCallback:00000000 HAL_UART_TxCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2807   .text.UART_DMATransmitCplt:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2868   .text.UART_EndTransmit_IT:00000000 $t
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 198
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:18     .text.UART_EndTxTransfer:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:23     .text.UART_EndTxTransfer:00000000 UART_EndTxTransfer
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:47     .text.UART_EndRxTransfer:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:52     .text.UART_EndRxTransfer:00000000 UART_EndRxTransfer
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:98     .text.UART_Transmit_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:103    .text.UART_Transmit_IT:00000000 UART_Transmit_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:205    .text.UART_SetConfig:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:210    .text.UART_SetConfig:00000000 UART_SetConfig
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:323    .text.UART_SetConfig:0000008c $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:329    .text.UART_WaitOnFlagUntilTimeout:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:334    .text.UART_WaitOnFlagUntilTimeout:00000000 UART_WaitOnFlagUntilTimeout
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:427    .text.HAL_UART_MspInit:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:433    .text.HAL_UART_MspInit:00000000 HAL_UART_MspInit
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:448    .text.HAL_UART_Init:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:454    .text.HAL_UART_Init:00000000 HAL_UART_Init
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:548    .text.HAL_HalfDuplex_Init:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:554    .text.HAL_HalfDuplex_Init:00000000 HAL_HalfDuplex_Init
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:653    .text.HAL_LIN_Init:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:659    .text.HAL_LIN_Init:00000000 HAL_LIN_Init
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:777    .text.HAL_MultiProcessor_Init:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:783    .text.HAL_MultiProcessor_Init:00000000 HAL_MultiProcessor_Init
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:908    .text.HAL_UART_MspDeInit:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:914    .text.HAL_UART_MspDeInit:00000000 HAL_UART_MspDeInit
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:929    .text.HAL_UART_DeInit:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:935    .text.HAL_UART_DeInit:00000000 HAL_UART_DeInit
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1000   .text.HAL_UART_Transmit:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1006   .text.HAL_UART_Transmit:00000000 HAL_UART_Transmit
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1240   .text.HAL_UART_Receive:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1246   .text.HAL_UART_Receive:00000000 HAL_UART_Receive
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1497   .text.HAL_UART_Transmit_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1503   .text.HAL_UART_Transmit_IT:00000000 HAL_UART_Transmit_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1601   .text.HAL_UART_Transmit_DMA:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1607   .text.HAL_UART_Transmit_DMA:00000000 HAL_UART_Transmit_DMA
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1751   .text.HAL_UART_Transmit_DMA:00000080 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2812   .text.UART_DMATransmitCplt:00000000 UART_DMATransmitCplt
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2932   .text.UART_DMATxHalfCplt:00000000 UART_DMATxHalfCplt
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3027   .text.UART_DMAError:00000000 UART_DMAError
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1758   .text.HAL_UART_DMAPause:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1764   .text.HAL_UART_DMAPause:00000000 HAL_UART_DMAPause
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1866   .text.HAL_UART_DMAResume:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1872   .text.HAL_UART_DMAResume:00000000 HAL_UART_DMAResume
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1984   .text.HAL_UART_DMAStop:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:1990   .text.HAL_UART_DMAStop:00000000 HAL_UART_DMAStop
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2093   .text.HAL_UARTEx_ReceiveToIdle:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2099   .text.HAL_UARTEx_ReceiveToIdle:00000000 HAL_UARTEx_ReceiveToIdle
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2419   .text.HAL_UART_Abort:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2425   .text.HAL_UART_Abort:00000000 HAL_UART_Abort
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2585   .text.HAL_UART_AbortTransmit:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2591   .text.HAL_UART_AbortTransmit:00000000 HAL_UART_AbortTransmit
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2674   .text.HAL_UART_AbortReceive:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2680   .text.HAL_UART_AbortReceive:00000000 HAL_UART_AbortReceive
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2786   .text.HAL_UART_TxCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2792   .text.HAL_UART_TxCpltCallback:00000000 HAL_UART_TxCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2807   .text.UART_DMATransmitCplt:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2868   .text.UART_EndTransmit_IT:00000000 $t
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 198
 
 
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2873   .text.UART_EndTransmit_IT:00000000 UART_EndTransmit_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2906   .text.HAL_UART_TxHalfCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2912   .text.HAL_UART_TxHalfCpltCallback:00000000 HAL_UART_TxHalfCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2927   .text.UART_DMATxHalfCplt:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2959   .text.HAL_UART_RxCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2965   .text.HAL_UART_RxCpltCallback:00000000 HAL_UART_RxCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2980   .text.HAL_UART_RxHalfCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:2986   .text.HAL_UART_RxHalfCpltCallback:00000000 HAL_UART_RxHalfCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3001   .text.HAL_UART_ErrorCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3007   .text.HAL_UART_ErrorCallback:00000000 HAL_UART_ErrorCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3022   .text.UART_DMAError:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3124   .text.UART_DMAAbortOnError:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3129   .text.UART_DMAAbortOnError:00000000 UART_DMAAbortOnError
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3162   .text.HAL_UART_AbortCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3168   .text.HAL_UART_AbortCpltCallback:00000000 HAL_UART_AbortCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3183   .text.HAL_UART_Abort_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3189   .text.HAL_UART_Abort_IT:00000000 HAL_UART_Abort_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3398   .text.HAL_UART_Abort_IT:000000d4 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3478   .text.UART_DMATxAbortCallback:00000000 UART_DMATxAbortCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3409   .text.UART_DMARxAbortCallback:00000000 UART_DMARxAbortCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3404   .text.UART_DMARxAbortCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3473   .text.UART_DMATxAbortCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3542   .text.HAL_UART_AbortTransmitCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3548   .text.HAL_UART_AbortTransmitCpltCallback:00000000 HAL_UART_AbortTransmitCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3563   .text.HAL_UART_AbortTransmit_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3569   .text.HAL_UART_AbortTransmit_IT:00000000 HAL_UART_AbortTransmit_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3664   .text.HAL_UART_AbortTransmit_IT:0000005c $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3674   .text.UART_DMATxOnlyAbortCallback:00000000 UART_DMATxOnlyAbortCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3669   .text.UART_DMATxOnlyAbortCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3708   .text.HAL_UART_AbortReceiveCpltCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3714   .text.HAL_UART_AbortReceiveCpltCallback:00000000 HAL_UART_AbortReceiveCpltCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3729   .text.HAL_UART_AbortReceive_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3735   .text.HAL_UART_AbortReceive_IT:00000000 HAL_UART_AbortReceive_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3860   .text.HAL_UART_AbortReceive_IT:00000080 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3870   .text.UART_DMARxOnlyAbortCallback:00000000 UART_DMARxOnlyAbortCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3865   .text.UART_DMARxOnlyAbortCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3907   .text.HAL_UARTEx_RxEventCallback:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3913   .text.HAL_UARTEx_RxEventCallback:00000000 HAL_UARTEx_RxEventCallback
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3929   .text.UART_Receive_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:3934   .text.UART_Receive_IT:00000000 UART_Receive_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4154   .text.HAL_UART_IRQHandler:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4160   .text.HAL_UART_IRQHandler:00000000 HAL_UART_IRQHandler
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4617   .text.HAL_UART_IRQHandler:00000200 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4622   .text.UART_DMARxHalfCplt:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4627   .text.UART_DMARxHalfCplt:00000000 UART_DMARxHalfCplt
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4671   .text.UART_DMAReceiveCplt:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4676   .text.UART_DMAReceiveCplt:00000000 UART_DMAReceiveCplt
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4764   .text.HAL_LIN_SendBreak:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4770   .text.HAL_LIN_SendBreak:00000000 HAL_LIN_SendBreak
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4823   .text.HAL_MultiProcessor_EnterMuteMode:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4829   .text.HAL_MultiProcessor_EnterMuteMode:00000000 HAL_MultiProcessor_EnterMuteMode
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4882   .text.HAL_MultiProcessor_ExitMuteMode:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4888   .text.HAL_MultiProcessor_ExitMuteMode:00000000 HAL_MultiProcessor_ExitMuteMode
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4941   .text.HAL_HalfDuplex_EnableTransmitter:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:4947   .text.HAL_HalfDuplex_EnableTransmitter:00000000 HAL_HalfDuplex_EnableTransmitter
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5014   .text.HAL_HalfDuplex_EnableReceiver:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5020   .text.HAL_HalfDuplex_EnableReceiver:00000000 HAL_HalfDuplex_EnableReceiver
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s 			page 199
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2873   .text.UART_EndTransmit_IT:00000000 UART_EndTransmit_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2906   .text.HAL_UART_TxHalfCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2912   .text.HAL_UART_TxHalfCpltCallback:00000000 HAL_UART_TxHalfCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2927   .text.UART_DMATxHalfCplt:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2959   .text.HAL_UART_RxCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2965   .text.HAL_UART_RxCpltCallback:00000000 HAL_UART_RxCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2980   .text.HAL_UART_RxHalfCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:2986   .text.HAL_UART_RxHalfCpltCallback:00000000 HAL_UART_RxHalfCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3001   .text.HAL_UART_ErrorCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3007   .text.HAL_UART_ErrorCallback:00000000 HAL_UART_ErrorCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3022   .text.UART_DMAError:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3124   .text.UART_DMAAbortOnError:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3129   .text.UART_DMAAbortOnError:00000000 UART_DMAAbortOnError
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3162   .text.HAL_UART_AbortCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3168   .text.HAL_UART_AbortCpltCallback:00000000 HAL_UART_AbortCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3183   .text.HAL_UART_Abort_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3189   .text.HAL_UART_Abort_IT:00000000 HAL_UART_Abort_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3398   .text.HAL_UART_Abort_IT:000000d4 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3478   .text.UART_DMATxAbortCallback:00000000 UART_DMATxAbortCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3409   .text.UART_DMARxAbortCallback:00000000 UART_DMARxAbortCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3404   .text.UART_DMARxAbortCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3473   .text.UART_DMATxAbortCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3542   .text.HAL_UART_AbortTransmitCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3548   .text.HAL_UART_AbortTransmitCpltCallback:00000000 HAL_UART_AbortTransmitCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3563   .text.HAL_UART_AbortTransmit_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3569   .text.HAL_UART_AbortTransmit_IT:00000000 HAL_UART_AbortTransmit_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3664   .text.HAL_UART_AbortTransmit_IT:0000005c $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3674   .text.UART_DMATxOnlyAbortCallback:00000000 UART_DMATxOnlyAbortCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3669   .text.UART_DMATxOnlyAbortCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3708   .text.HAL_UART_AbortReceiveCpltCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3714   .text.HAL_UART_AbortReceiveCpltCallback:00000000 HAL_UART_AbortReceiveCpltCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3729   .text.HAL_UART_AbortReceive_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3735   .text.HAL_UART_AbortReceive_IT:00000000 HAL_UART_AbortReceive_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3860   .text.HAL_UART_AbortReceive_IT:00000080 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3870   .text.UART_DMARxOnlyAbortCallback:00000000 UART_DMARxOnlyAbortCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3865   .text.UART_DMARxOnlyAbortCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3907   .text.HAL_UARTEx_RxEventCallback:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3913   .text.HAL_UARTEx_RxEventCallback:00000000 HAL_UARTEx_RxEventCallback
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3929   .text.UART_Receive_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:3934   .text.UART_Receive_IT:00000000 UART_Receive_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4154   .text.HAL_UART_IRQHandler:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4160   .text.HAL_UART_IRQHandler:00000000 HAL_UART_IRQHandler
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4617   .text.HAL_UART_IRQHandler:00000200 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4622   .text.UART_DMARxHalfCplt:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4627   .text.UART_DMARxHalfCplt:00000000 UART_DMARxHalfCplt
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4671   .text.UART_DMAReceiveCplt:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4676   .text.UART_DMAReceiveCplt:00000000 UART_DMAReceiveCplt
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4764   .text.HAL_LIN_SendBreak:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4770   .text.HAL_LIN_SendBreak:00000000 HAL_LIN_SendBreak
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4823   .text.HAL_MultiProcessor_EnterMuteMode:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4829   .text.HAL_MultiProcessor_EnterMuteMode:00000000 HAL_MultiProcessor_EnterMuteMode
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4882   .text.HAL_MultiProcessor_ExitMuteMode:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4888   .text.HAL_MultiProcessor_ExitMuteMode:00000000 HAL_MultiProcessor_ExitMuteMode
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4941   .text.HAL_HalfDuplex_EnableTransmitter:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:4947   .text.HAL_HalfDuplex_EnableTransmitter:00000000 HAL_HalfDuplex_EnableTransmitter
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5014   .text.HAL_HalfDuplex_EnableReceiver:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5020   .text.HAL_HalfDuplex_EnableReceiver:00000000 HAL_HalfDuplex_EnableReceiver
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s 			page 199
 
 
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5087   .text.HAL_UART_GetState:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5093   .text.HAL_UART_GetState:00000000 HAL_UART_GetState
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5120   .text.HAL_UART_GetError:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5126   .text.HAL_UART_GetError:00000000 HAL_UART_GetError
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5144   .text.UART_Start_Receive_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5150   .text.UART_Start_Receive_IT:00000000 UART_Start_Receive_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5212   .text.HAL_UART_Receive_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5218   .text.HAL_UART_Receive_IT:00000000 HAL_UART_Receive_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5295   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5301   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 HAL_UARTEx_ReceiveToIdle_IT
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5433   .text.UART_Start_Receive_DMA:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5439   .text.UART_Start_Receive_DMA:00000000 UART_Start_Receive_DMA
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5560   .text.UART_Start_Receive_DMA:0000006c $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5567   .text.HAL_UART_Receive_DMA:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5573   .text.HAL_UART_Receive_DMA:00000000 HAL_UART_Receive_DMA
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5650   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccnyF6Zz.s:5656   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 HAL_UARTEx_ReceiveToIdle_DMA
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5087   .text.HAL_UART_GetState:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5093   .text.HAL_UART_GetState:00000000 HAL_UART_GetState
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5120   .text.HAL_UART_GetError:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5126   .text.HAL_UART_GetError:00000000 HAL_UART_GetError
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5144   .text.UART_Start_Receive_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5150   .text.UART_Start_Receive_IT:00000000 UART_Start_Receive_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5212   .text.HAL_UART_Receive_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5218   .text.HAL_UART_Receive_IT:00000000 HAL_UART_Receive_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5295   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5301   .text.HAL_UARTEx_ReceiveToIdle_IT:00000000 HAL_UARTEx_ReceiveToIdle_IT
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5433   .text.UART_Start_Receive_DMA:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5439   .text.UART_Start_Receive_DMA:00000000 UART_Start_Receive_DMA
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5560   .text.UART_Start_Receive_DMA:0000006c $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5567   .text.HAL_UART_Receive_DMA:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5573   .text.HAL_UART_Receive_DMA:00000000 HAL_UART_Receive_DMA
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5650   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccKVcSpa.s:5656   .text.HAL_UARTEx_ReceiveToIdle_DMA:00000000 HAL_UARTEx_ReceiveToIdle_DMA
 
 UNDEFINED SYMBOLS
 HAL_RCC_GetPCLK1Freq

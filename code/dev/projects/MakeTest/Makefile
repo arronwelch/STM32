@@ -182,7 +182,7 @@ clean:
 	-rm -fR $(BUILD_DIR)
 
 #######################################
-# clean up
+# openocd
 #######################################
 flash: all
 	openocd -f interface/cmsis-dap.cfg -f target/stm32f1x.cfg -c "program $(BUILD_DIR)/$(TARGET).elf verify reset exit"

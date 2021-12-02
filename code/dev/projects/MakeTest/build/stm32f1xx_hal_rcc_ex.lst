@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
   29:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   */
   30:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** 
   31:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** #ifdef HAL_RCC_MODULE_ENABLED
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 2
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 2
 
 
   32:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
   86:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   * @param  PeriphClkInit pointer to an RCC_PeriphCLKInitTypeDef structure that
   87:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   *         contains the configuration information for the Extended Peripherals clocks(RTC clock).
   88:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   *
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 3
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 3
 
 
   89:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   * @note   Care must be taken when HAL_RCCEx_PeriphCLKConfig() is used to select
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  115:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****     /* check for RTC Parameters used to output RTCCLK */
  116:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****     assert_param(IS_RCC_RTCCLKSOURCE(PeriphClkInit->RTCClockSelection));
   56              		.loc 1 116 5 view .LVU8
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 4
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 4
 
 
  117:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  133:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       tickstart = HAL_GetTick();
  134:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** 
  135:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       while (HAL_IS_BIT_CLR(PWR->CR, PWR_CR_DBP))
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 5
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 5
 
 
  136:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       {
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  130 0062 1062     		str	r0, [r2, #32]
  155:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** 
  156:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       /* Wait for LSERDY if LSE was enabled */
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 6
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 6
 
 
  157:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       if (HAL_IS_BIT_SET(temp_reg, RCC_BDCR_LSEON))
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  184:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****     /* Check the parameters */
  185:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****     assert_param(IS_RCC_ADCPLLCLK_DIV(PeriphClkInit->AdcClockSelection));
  158              		.loc 1 185 5 is_stmt 1 view .LVU47
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 7
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 7
 
 
  186:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  232:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       if (HAL_IS_BIT_SET(RCC->CR, RCC_CR_PLL2ON) && \
  233:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****           (__HAL_RCC_HSE_GET_PREDIV2() != PeriphClkInit->PLLI2S.HSEPrediv2Value))
  234:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 8
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 8
 
 
  235:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****         return HAL_ERROR;
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  175 009a 1C4A     		ldr	r2, .L20
  176 009c 5368     		ldr	r3, [r2, #4]
  177 009e 23F48003 		bic	r3, r3, #4194304
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 9
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 9
 
 
  178 00a2 6169     		ldr	r1, [r4, #20]
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  137:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****         {
  217              		.loc 1 137 28 view .LVU66
  218 00ce 801B     		subs	r0, r0, r6
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 10
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 10
 
 
  137:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****         {
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  258              		.loc 1 177 7 is_stmt 1 view .LVU81
  259 00fa D369     		ldr	r3, [r2, #28]
  260 00fc 23F08053 		bic	r3, r3, #268435456
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 11
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 11
 
 
  261 0100 D361     		str	r3, [r2, #28]
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  298:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   /* Set all possible values for the extended clock type parameter------------*/
  299:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****   PeriphClkInit->PeriphClockSelection = RCC_PERIPHCLK_RTC;
  303              		.loc 1 299 3 view .LVU88
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 12
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 12
 
 
  304              		.loc 1 299 39 is_stmt 0 view .LVU89
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  333              		.loc 1 324 3 is_stmt 1 view .LVU103
  334              		.loc 1 324 37 is_stmt 0 view .LVU104
  335 001e 0022     		movs	r2, #0
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 13
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 13
 
 
  336 0020 C260     		str	r2, [r0, #12]
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  373              		.thumb_func
  375              	HAL_RCCEx_GetPeriphCLKFreq:
  376              	.LVL27:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 14
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 14
 
 
  377              	.LFB67:
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  382              		.loc 1 388 1 is_stmt 0 view .LVU116
  383 0000 00B5     		push	{lr}
  384              	.LCFI3:
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 15
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 15
 
 
  385              		.cfi_def_cfa_offset 4
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  419 002c 66       		.byte	(.L36-.L28)/2
  420 002d 36       		.byte	(.L29-.L28)/2
  421 002e 66       		.byte	(.L36-.L28)/2
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 16
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 16
 
 
  422 002f 66       		.byte	(.L36-.L28)/2
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  456 0054 2B4B     		ldr	r3, .L44+4
  457 0056 5B68     		ldr	r3, [r3, #4]
  458              		.loc 1 428 82 view .LVU138
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 17
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 17
 
 
  459 0058 C3F34043 		ubfx	r3, r3, #17, #1
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  468:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****         /* USBCLK = PLLVCO = (2 x PLLCLK) / USB prescaler */
  469:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****         if (__HAL_RCC_GET_USB_SOURCE() == RCC_USBCLKSOURCE_PLL_DIV2)
  470:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****         {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 18
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 18
 
 
  471:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****           /* Prescaler of 2 selected for USB */
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  493:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       break;
  494:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****     }
  495:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** #endif /* STM32F102x6 || STM32F102xB || STM32F103x6 || STM32F103xB || STM32F103xE || STM32F103xG ||
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 19
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 19
 
 
  496:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c **** #if defined(STM32F103xE) || defined(STM32F103xG) || defined(STM32F105xC) || defined(STM32F107xC)
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  538:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****           /* PLLI2SVCO = 2 * PLLI2SCLK = 2 * (HSE/PREDIV2 * PLL3MUL) */
  539:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****           prediv2 = ((RCC->CFGR2 & RCC_CFGR2_PREDIV2) >> RCC_CFGR2_PREDIV2_Pos) + 1;
  540:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****           pll3mul = ((RCC->CFGR2 & RCC_CFGR2_PLL3MUL) >> RCC_CFGR2_PLL3MUL_Pos) + 2;
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 20
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 20
 
 
  541:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****           frequency = (uint32_t)(2 * ((HSE_VALUE / prediv2) * pll3mul));
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  545 00ba 1BE0     		b	.L25
  546              	.L42:
  559:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       {
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 21
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 21
 
 
  547              		.loc 1 559 75 discriminator 1 view .LVU171
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  575              		.loc 1 576 47 view .LVU181
  576 00e0 084B     		ldr	r3, .L44+4
  577 00e2 5B68     		ldr	r3, [r3, #4]
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 22
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 22
 
 
  576:Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c ****       break;
@@ -1318,28 +1318,28 @@ ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 1
  625              		.file 5 "Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h"
  626              		.file 6 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h"
  627              		.file 7 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h"
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 23
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 23
 
 
  628              		.file 8 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h"
  629              		.file 9 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h"
-ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s 			page 24
+ARM GAS  C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s 			page 24
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f1xx_hal_rcc_ex.c
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:18     .text.HAL_RCCEx_PeriphCLKConfig:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:24     .text.HAL_RCCEx_PeriphCLKConfig:00000000 HAL_RCCEx_PeriphCLKConfig
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:281    .text.HAL_RCCEx_PeriphCLKConfig:0000010c $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:288    .text.HAL_RCCEx_GetPeriphCLKConfig:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:294    .text.HAL_RCCEx_GetPeriphCLKConfig:00000000 HAL_RCCEx_GetPeriphCLKConfig
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:359    .text.HAL_RCCEx_GetPeriphCLKConfig:00000038 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:364    .rodata.HAL_RCCEx_GetPeriphCLKFreq.str1.4:00000000 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:369    .text.HAL_RCCEx_GetPeriphCLKFreq:00000000 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:375    .text.HAL_RCCEx_GetPeriphCLKFreq:00000000 HAL_RCCEx_GetPeriphCLKFreq
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:413    .text.HAL_RCCEx_GetPeriphCLKFreq:00000026 $d
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:429    .text.HAL_RCCEx_GetPeriphCLKFreq:00000036 $t
-C:\Users\ADMINI~1\AppData\Local\Temp\ccXJRPVN.s:612    .text.HAL_RCCEx_GetPeriphCLKFreq:00000100 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:18     .text.HAL_RCCEx_PeriphCLKConfig:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:24     .text.HAL_RCCEx_PeriphCLKConfig:00000000 HAL_RCCEx_PeriphCLKConfig
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:281    .text.HAL_RCCEx_PeriphCLKConfig:0000010c $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:288    .text.HAL_RCCEx_GetPeriphCLKConfig:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:294    .text.HAL_RCCEx_GetPeriphCLKConfig:00000000 HAL_RCCEx_GetPeriphCLKConfig
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:359    .text.HAL_RCCEx_GetPeriphCLKConfig:00000038 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:364    .rodata.HAL_RCCEx_GetPeriphCLKFreq.str1.4:00000000 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:369    .text.HAL_RCCEx_GetPeriphCLKFreq:00000000 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:375    .text.HAL_RCCEx_GetPeriphCLKFreq:00000000 HAL_RCCEx_GetPeriphCLKFreq
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:413    .text.HAL_RCCEx_GetPeriphCLKFreq:00000026 $d
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:429    .text.HAL_RCCEx_GetPeriphCLKFreq:00000036 $t
+C:\Users\ADMINI~1\AppData\Local\Temp\ccsHYv7p.s:612    .text.HAL_RCCEx_GetPeriphCLKFreq:00000100 $d
 
 UNDEFINED SYMBOLS
 HAL_GetTick
