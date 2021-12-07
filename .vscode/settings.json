@@ -1,13 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
-        "stm32f10x_rcc.h": "c",
-        "stm32f10x.h": "c",
-        "delay.h": "c",
-        "stm32f10x_gpio.h": "c",
-        "led.h": "c",
-        "sys.h": "c",
-        "string.h": "c"
+        "*.h": "c"
     },
     "EIDE.SerialPortMonitor.BaudRate": 115200
 }
