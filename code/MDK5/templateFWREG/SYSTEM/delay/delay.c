@@ -62,9 +62,9 @@ void delay_init(u8 SYSCLK)
 
 #ifdef OS_CRITICAL_METHOD 	//如果OS_CRITICAL_METHOD定义了,说明使用ucosII了.
 	reload=SYSCLK*1000000/8;		//每秒钟的计数次数 单位为M
-	reload=reload*(1/OS_TICKS_PER_SEC);//根据OS_TICKS_PER_SEC设定溢出时间,计算counter次数:需要定时的时间(1/OS_TICKS_PER_SEC) [乘以] 定时1秒钟需要计数次数(SYSCLK*1000000/8)
+	reload=reload*(1/OS_TICKS_PER_SEC);//根据OS_TICKS_PER_SEC设定溢出时间,计算counter次数:需要定时的时间(1/OS_TICKS_PER_SEC 单位为秒) [乘以] 定时1秒钟需要计数次数(SYSCLK*1000000/8)
 							//reload为24位寄存器,最大值:16777216,在72M下(72/8 = 9M),约合1.86s左右 (2^24)/9M= 1.864135 (sec)
-	fac_ms=1000/OS_TICKS_PER_SEC;//代表ucos可以延时的最少单位
+	fac_ms=1000/OS_TICKS_PER_SEC;//代表ucos可以延时的最少单位 (乘以1000,单位为毫秒:msec;例如,OS_TICKS_PER_SEC = 200时,fac_ms为5ms)
 	SysTick->CTRL|=1<<1;   	//开启SYSTICK中断
 	SysTick->LOAD=reload; 	//每1/OS_TICKS_PER_SEC秒中断一次
 	SysTick->CTRL|=1<<0;   	//开启SYSTICK
@@ -76,6 +76,7 @@ void delay_init(u8 SYSCLK)
 #ifdef OS_CRITICAL_METHOD 	//如果OS_CRITICAL_METHOD定义了,说明使用ucosII了.
 //延时nus
 //nus为要延时的us数.
+//调用时任务无法调度
 void delay_us(u32 nus)
 {
 	u32 ticks;
@@ -106,9 +107,9 @@ void delay_ms(u16 nms)
 	{
 		if(nms>=fac_ms)//延时的时间大于ucos的最少时间周期
 		{
-   			OSTimeDly(nms/fac_ms);//ucos延时
+   			OSTimeDly(nms/fac_ms);//ucos延时,以fac_ms = 1000/OS_TICKS_PER_SEC(msec)为单位计量
 		}
-		nms%=fac_ms;			//ucos已经无法提供这么小的延时了,采用普通方式延时
+		nms%=fac_ms;			//ucos已经无法提供这么小的延时了,采用普通方式延时      fac_ms = 1000/OS_TICKS_PER_SEC(msec) 以内的用delay_us来延时
 	}
 	delay_us((u32)(nms*1000));	//普通方式延时
 }
