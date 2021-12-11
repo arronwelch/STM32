@@ -3,8 +3,12 @@
         {
             "name": "STM32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/code/MDK5/templateFWREG/SYSTEM/delay",
+                "${workspaceFolder}/code/MDK5/templateFWREG/SYSTEM/sys",
+                "${workspaceFolder}/code/MDK5/templateFWREG/SYSTEM/usart",
                 //"C:\\Users\\Administrator\\AppData\\Local\\Arm\\Packs\\ARM\\CMSIS\\5.7.0\\CMSIS\\Include"
+                "E:\\Keil_MDK_v5p36\\ARM\\Packs\\ARM\\CMSIS\\5.8.0\\CMSIS\\Core\\Include"
             ],
             "defines": [
                 "_DEBUG",

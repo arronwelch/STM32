@@ -1,7 +1,4 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
-    "files.associations": {
-        "*.h": "c"
-    },
     "EIDE.SerialPortMonitor.BaudRate": 115200
 }
